@@ -6,4 +6,25 @@ Anh Nam sắp đi bốc biển số, với hi vọng mong muốn tìm biển s�
 # Output
 * In ra có bao nhiêu số may mắn, và số may mắn lớn nhất có thể tìm thấy. Nếu không, in ra "No".
 # Ví dụ:
-
+<table>
+<thead>
+<tr>
+  <th>INPUT</th>
+  <th>OUTPUT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>2</td>
+  <td>1 1006</td>
+</tr>
+<tr>
+  <td>1006</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1007</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
